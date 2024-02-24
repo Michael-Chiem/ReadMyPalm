@@ -1,0 +1,14 @@
+{
+  "name": "readmypalm",
+  "version": "1.0.0",
+  "description": "const inquirer = require('inquirer');\r const fs = require('fs');",
+  "main": "readme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
